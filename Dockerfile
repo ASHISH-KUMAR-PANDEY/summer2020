@@ -5,4 +5,4 @@ MAINTAINER ashishkumarpandey2000@gmail.com , 8209966380
 RUN mkdir /mycode001
 # run instruction exe any linux command inside my docker image
 COPY mushroom.py /mycode001/adhoc.py
-CMD python /mycode001/mushroom.py
+CMD python /mycode001/adhoc.py
